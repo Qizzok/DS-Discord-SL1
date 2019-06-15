@@ -59,9 +59,9 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 Torch only
   - It's recommended that Iudex, Deacons and Yhorm should be beaten with a different legendary challenge.
 - SL1 Soldering Iron only
-  - It's recommended that Yhorm should be beaten with a different legendary challenge.
+  - This can be spawned in at the beginning of the run. You are allowed to use the carthus milk ring to be able to wield it.
 - SL1 -80 NG+
-  - This is SL-80, obtained by using exploits or cheats with the result of having only 1 point in every stat.
+  - For this run, use CE to have 1 point in every stat.
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
 - SL1 Armour of Thorns only

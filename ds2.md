@@ -57,14 +57,13 @@ Advices provided by Xerieh:
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
 - SL1 & CoC Fist only
-  - Vanquisher's Seal is not allowed. Show your rings / equipment screen after killing the bosses.
-- SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
-  - ~~Red Tearstone Ring is not allowed on this run. Beats the whole purpose of doing little damage.~~
-  - Offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
+  - Vanquisher's Seal is not allowed.
+- SL1 & CoC +0 Weapons/+0 Armor/No Infusions/No Bleed/No Toxic/No Poison
+  - Red Tearstone Ring and offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
 
 
   
 ## SL1 Legend Banned Equipment
 
 * Brightbug on base NG.
-* Offensive Pyromancies are not allowed for low damage runs
+* Offensive pyromancies are not allowed for low damage runs

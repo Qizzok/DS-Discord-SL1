@@ -40,7 +40,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 ### Proof for SL1 Legend of Dark Souls I, II or III | SL1 Monumental of Demon's Souls | BL4 Great One of Bloodborne
 > Legends runs are SL1 runs with one or more handicaps to make it harder. Check the games' pages for a list of what counts, and what doesn't. If you have any doubt, ask the server mods.
 
-To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified.
+To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified. _At some point in your recording, you must show your stats and equipment. Not doing so may require you to redo fights._
 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
