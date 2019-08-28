@@ -45,11 +45,13 @@ Advices provided by Xerieh:
 - SL1 & CoC NG+7
 
 - SL1 & CoC Broken Ladle only
-- SL1 & CoC Broken Thief Sword only
+    - A different challenge is allowed against the triple NPC boss in the DLC.
+- SL1 & CoC Broken Thief Sword 
+    - A different challenge is allowed against the triple NPC boss in the DLC.
 - SL1 & CoC Broken Straight Sword only
+    - A different challenge is allowed against the triple NPC boss in the DLC.
 - SL1 & CoC Broken Weapon
-- SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring
-  - Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
+- SL1 & CoC No Rolling/Blocking/Parrying
 - SL1 & CoC Perma-Death
   - Record the full run.
 - SL1 & CoC No Hit & Any%
@@ -57,13 +59,26 @@ Advices provided by Xerieh:
 - SL1 Blindfolded
   - Not allowed to see the screen, you need a clear webcam stream to prove.
 - SL1 & CoC Fist only
+<<<<<<< HEAD
   - Vanquisher's Seal is not allowed.
 - SL1 & CoC +0 Weapons/+0 Armor/No Infusions/No Bleed/No Toxic/No Poison
   - Red Tearstone Ring and offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
 
+=======
+  - Vanquisher's Seal is not allowed. Show your rings / equipment screen after killing the bosses.
+- SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
+  - Flynn's ring is not allowed on this run.
+>>>>>>> 52103e8... Rule updates for BB, DS1, and DS2, voted by community.
 
+> Note: For all runs, if all Loyce Knights are used against the Ivory King, you must wait for the last knight to die before engaging the boss.
   
 ## SL1 Legend Banned Equipment
 
 * Brightbug on base NG.
+<<<<<<< HEAD
 * Offensive pyromancies are not allowed for low damage runs
+=======
+* Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
+* Offensive Pyromancies are not allowed for low damage runs
+* Aux effects (bleed, poison, etc) are not allowed for low damage runs.
+>>>>>>> 52103e8... Rule updates for BB, DS1, and DS2, voted by community.

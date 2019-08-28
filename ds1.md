@@ -67,7 +67,6 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
   - Duke Skip is not mandatory. Your death to Seath's first encounter won't be counted.
 - SL1 Fist only
   - It's recommended that Four Kings should be beaten with a different legendary challenge.
-  - Red Tear Stone Ring and Power Within are allowed for the fight (if doing it Fist only).
   - Dragon Form is not allowed since it beats the purpose of the run with 300-400dmg per hit.
   
 ## SL1 Legend Banned Equipment
@@ -75,4 +74,5 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 * Red Tear Stone Ring. It's too strong. Allowed only for combined runs at NG+6, e.g. NG+6 no roll.
 * Offensive Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
 * Dragon Torso Stone fist weapon. Overpowered for low damage runs, pointless for other challenges.
-* Silver Pendant. Not needed and trivializes one of the harder bosses.
+* Silver Pendant. Not needed and trivializes one of the harder bosses
+* Poise tanking. Fights do not need to be flawless but you can't be relying on poise and armor to survive rather than dodging. To some extent this is at checkers' discretion.
