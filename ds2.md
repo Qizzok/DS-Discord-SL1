@@ -49,6 +49,7 @@ Advices provided by Xerieh:
 - SL1 & CoC Broken Thief Sword 
     - A different challenge is allowed against the triple NPC boss in the DLC.
 - SL1 & CoC Broken Straight Sword only
+    - Powerstancing is not allowed
     - A different challenge is allowed against the triple NPC boss in the DLC.
 - SL1 & CoC Broken Weapon
 - SL1 & CoC No Rolling/Blocking/Parrying
