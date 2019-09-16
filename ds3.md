@@ -21,6 +21,8 @@ layout: default
 
 **Stray Demon (Lothric's Bridge) and the Demon just before Smouldering Lake are entirely optional.**
 
+**Halflight must be fought for Spears of the Church. Fighting a player, even accidentally, is not allowed. If necessary you can respawn the boss at the purging monument.**
+
 _If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
 
 
