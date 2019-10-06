@@ -40,10 +40,13 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 ## SL1 Monumental Banned Equipment and Strategies
 
-* Morion Blade. It's too strong. Allowed on NG+5.
+* Morion Blade is only allowed on no sprint runs.
 * Clever Rat Ring on base NG. It's too strong.
+* Concealment is only allowed on no sprint runs and only against flamelurkers.
 * Second Chance. It's cheap, granting a second opportunity in the middle of a fight.
 * Biorr of the Twin Fangs against Penetrator. Just don't unlock his cell in 1-2.
 * Thief Ring against flamelurker, old hero, storm king, and dragon god.
-* Offensive spells/miracles (which you can hardly cast). 
+* Offensive spells/miracles (which you can hardly cast).
+* Black turpentine is not allowed on low damage runs.
 * Multiple cheese tactics or exploits exclusive to this game. In example, using the bow glitch for Maneaters (shooting through the fog) or killing Vanguard (4-1) out of his aggro range.
+* Damaging consumables are not allowed on any low damage run.

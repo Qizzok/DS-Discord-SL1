@@ -76,3 +76,4 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 * Dragon Torso Stone fist weapon. Overpowered for low damage runs, pointless for other challenges.
 * Silver Pendant. Not needed and trivializes one of the harder bosses
 * Poise tanking. Fights do not need to be flawless but you can't be relying on poise and armor to survive rather than dodging. To some extent this is at checkers' discretion.
+* Damaging consumables are not allowed on any low damage run.

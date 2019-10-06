@@ -93,3 +93,4 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 - SL1 Keyboard and Mouse. Since some people prefer to play on Keyboard and Mouse, this doesn't count.
 - SL1 No Weapon buffs - Since most of the damage comes from Rings and not Resins/Bundles/Spells especially against the DLC bosses, not using Weapon buffs isn't enough for Legend runs (and besides, you can just bleed bosses with a blood infused bandit knife and kill them really fast).
 - SL1 [insert FPS]. We get it, it's not always easy to record video. Sorry.
+- Damaging consumables are not allowed on any low damage run. Using them to clear crystal sage clones *is* allowed.z

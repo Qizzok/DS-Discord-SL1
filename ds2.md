@@ -73,3 +73,4 @@ Advices provided by Xerieh:
 * Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
 * Offensive Pyromancies are not allowed for low damage runs
 * Aux effects (bleed, poison, etc) are not allowed for low damage runs.
+* Damaging consumables are not allowed on any low damage run.
