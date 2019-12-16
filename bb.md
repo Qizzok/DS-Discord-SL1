@@ -49,5 +49,5 @@ layout: default
 ## BL4 Great One Banned Equipment
 
 * Chalice Dungeon gems or Runes in base NG. They're too strong.
-* Beast Blood Pellets on any Great One run. (Allowed on permadeath, no-hit, and no sprint.)
+* Beast Blood Pellets on any Great One run. (Allowed on permadeath, no-hit, and NG+6 no sprint.)
 * Damaging consumables are not allowed on any low damage run.

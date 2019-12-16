@@ -50,6 +50,7 @@ Generally, Reinforced Club is your main weapon for most if not all the game. Eve
 
 - SL1 NG+6
 - SL1 No Rolling/Blocking/Parrying
+  - Boss kills must be flawless (no damage/stagger taken from enemy attacks)
 - SL1 +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
   - Dark Hand and Blacksmith Giant Hammer are not allowed for this run
 - SL1 Broken Weapon
